@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Привет! Я NorthB1t 👋</h1>
 
-<!--
-**NorthB1T/NorthB1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍💻 Python-разработчик | 🔐 Студент направления кибербезопасности | 🧠 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Обо мне
+
+- 🔭 Сейчас учусь и развиваюсь в разработке и информационной безопасности  
+- 🧠 Изучаю поиск уязвимостей, CTF, криптографию и создание Telegram-ботов  
+- 🎯 Моя цель — стать специалистом в сфере кибербезопасности и работать на благо общества    
+
+---
+
+## 📌 Что я делаю
+
+- 🐍 Пишу бота-шпаргалку по Python  
+- 🧰 Изучаю SQL-инъекции, XSS, nmap, Burp Suite  
+- 📡 Запускаю Telegram-канал [@NorthB1t](https://t.me/NorthB1T)  
+- 🛠️ Знаком с Python, C#, Linux, Git, SQLite
+- 🏗️ Увлекаюсь 3д моделированием и печатью
+---
+
+## 💻 Мои интересы
+
+- Информационная безопасность (Pentest, Forensics, Red/Blue Team)  
+- Криптография  
+- 3D-печать  
+- Создание полезных ботов и тулов для себя и других
+
+---
+
+## 📫 Связь
+
+- Telegram канал: [@NorthB1t](https://t.me/NorthB1T)
+
+- GitHub Projects: [github.com/NorthB1t](https://github.com/NorthB1t)
+
+---
+
